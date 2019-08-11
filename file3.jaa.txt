@@ -1,0 +1,9 @@
+import java.lang.*;
+import java.util.*;
+import java.io.*;
+
+class world{
+    public static void main(String[] args) throws Exception{
+
+    }
+}
